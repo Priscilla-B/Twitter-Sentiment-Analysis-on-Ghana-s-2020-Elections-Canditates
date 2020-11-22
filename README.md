@@ -1,0 +1,1 @@
+# Twitter-Sentiment-Analysis-on-Ghana-s-2020-Elections-Canditates
